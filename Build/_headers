@@ -1,0 +1,11 @@
+/meujogo-webgl.data.br
+  Content-Encoding: br
+  Content-Type: application/octet-stream
+
+/meujogo-webgl.framework.js.br
+  Content-Encoding: br
+  Content-Type: application/javascript
+
+/meujogo-webgl.wasm.br
+  Content-Encoding: br
+  Content-Type: application/wasm
